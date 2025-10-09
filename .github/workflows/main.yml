@@ -1,4 +1,4 @@
-name: deploy package manager
+name: deploy maven
 
 on:
   push:
